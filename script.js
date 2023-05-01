@@ -1,4 +1,4 @@
-//your JS code here. If required.
+
 function firstNonRepeatedChar(str) {
 const charCounts = new Map();
 for (const char of str) {
