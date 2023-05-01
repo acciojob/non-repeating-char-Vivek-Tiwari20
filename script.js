@@ -8,7 +8,7 @@ function firstNonRepeatedChar(str) {
   if (charCounts.get(char) === 1) {
   return char;
   }
-  }
+  } 
   return "There's no non-repeated character in the string.";
   }
   
